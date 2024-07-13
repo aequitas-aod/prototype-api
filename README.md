@@ -1,6 +1,6 @@
 # prototype-api
 Context Service prototype supporting the aequitas-lib.
-Current version is compatible with D3.1/D4.1.
+Current version is compatible with D3.1/D4.1 and D3.2/D4.2.
 
 ## Usage:
 * (create venv)
